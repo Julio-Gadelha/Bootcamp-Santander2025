@@ -75,3 +75,53 @@
 // let conta =  25 / 4 
 
 // console.log(conta)
+
+
+
+
+
+// OPERADORES RELACIONADOS OU DE COMPARAÇÃO
+
+// GURDA VALOR EM UMA VARIÁVEL DE RESULTADO True? or False
+// let numero = "Nvidia"
+// console.log(numero !== "Nvidia")
+
+// let cpfBloqueado = "287.499.479-26"
+// let cpfUsuario = "223.444.555.660-67"
+// let ehCPFBloqueado = cpfUsuario === cpfBloqueado
+
+// console.log( " O usuario esta barrado  ? "  + ehCPFBloqueado) 
+
+
+
+
+// MAIOR QUE OU MENOR QUE OU IGUAL OU MENOR OU MAIOR ]
+// let julio = 17
+// let emanuel = 10
+
+// let quememaior = julio > emanuel
+// console.log("Quem tem a idade maior ? " +  quememaior)
+
+
+
+// OPERADORES LOGICOS
+
+
+// AND &&
+// let moedasColetadas = 500
+// let item = "Estrela"
+// let resultado = (moedasColetadas >=100) && (item ==="Estrela")
+// console.log(resultado)
+
+
+// OR // Nosso boneco so pode sair com uma dessa duas condiçoes sem chuva ou com gurda chuva
+// let tempo = "sol"
+// let item = "gurda chuva"
+// let podeSair = (tempo !== "chuva" || item=== "gurda chuva")
+// console.log( "Nosso personagem pode saor " + podeSair)
+
+// NOT  ( !) - nega uma afirmação
+// let tempo = "chuva"
+// let horario = 8
+// let resultado = !((tempo !== "chuva") && (horario > 6))
+// console.log(resultado)
