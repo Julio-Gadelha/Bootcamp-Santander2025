@@ -125,3 +125,69 @@
 // let horario = 8
 // let resultado = !((tempo !== "chuva") && (horario > 6))
 // console.log(resultado)
+
+
+
+// TAREFA SOBRE O IF ELSE
+
+
+//  Verificar se um número é positivo ou negativo
+// Escreva um código que verifique se um número é positivo ou negativo.
+
+// let numero = 0
+// if (numero > 0) {
+//     console.log(" The number is positive")
+// } else  if(numero <0){
+//    console.log("The number is negative")
+// } else{
+//  console.log(" the number is zeroo")
+// }
+
+
+
+// Escreva um código que verifique se uma pessoa pode ou não votar, considerando que a idade mínima para votar é 18 anos.
+
+// let idade = 18
+//  if (idade >18 ) {
+//     console.log("Você pode votar meu nobre,mas não seja burro")
+//  } else if(idade < 18) {
+//     console.log("Você não pode votar cara,tente na proxima,blz")
+//  } else{
+//     console.log("Ta esperando oque")
+//  }
+    
+
+// -- VERIFICAR OPERADOR CORRESPONDENTE -- 
+// Verificar se o número é par ou ímpar
+// Escreva um código que verifique se um número é par ou ímpar.
+
+// let numero = 8; 
+
+// if (numero % 2 === 0) {
+//     console.log("O número é par");
+// } else {
+//     console.log("O número é ímpar");
+// }
+
+// Escreva um código que verifique se uma pessoa é maior de idade (18 anos ou mais) e se possui carteira de motorista.
+
+// let idade = 10
+// if (idade >18) {
+//     console.log("Ja pode tirar a carteira ")
+// } else  if(idade <18){
+//     console.log("Não pode votar não mano")
+// }
+
+
+// Esreva um código que verifique se um número está entre 1 e 10.c
+
+// let numero = 90
+
+// if (numero >1 | numero <10)  {
+//     console.log("esta entre")
+// } else if(numero >10 ){
+//     console.log(" não esta entre")
+// }
+
+// TESKS FEITAS COM SUCESSO
+
